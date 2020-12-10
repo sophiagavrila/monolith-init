@@ -100,4 +100,4 @@ Now when we send a GET request to `localhost:8080/quiz/cards` we get the expecte
 
 We have extracted smaller services from our monolithic application and turned them into a microservices application. From there, we created interservice communication through the use of RestTemplate.
 
-The next issue to tackle in [Phase 2](../phase2) is keeping track of our many different services using Service Discovery and API Gateway with Consul and Spring Cloud Gateway.
+The next issue to tackle in is keeping track of our many different services using Service Discovery and API Gateway with Consul and Spring Cloud Gateway.
